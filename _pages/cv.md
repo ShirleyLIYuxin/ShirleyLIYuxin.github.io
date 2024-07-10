@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BEng in Computer Science, Hong Kong University of Science and Technology (HKUST) 2022-2026(expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Research Assistant
+  * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of IOWA)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Research Assistant
+  * Supervisor: Professor [Minhao CHENG](https://cmhcbb.github.io/) (
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, C++, LaTex, RISC-V
 
 Publications
 ======
