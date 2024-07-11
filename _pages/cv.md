@@ -13,25 +13,21 @@ Education
 ======
 * BEng in Computer Science, Hong Kong University of Science and Technology (HKUST) 2022-2026(expected)
 
-Work experience
+Research experience
 ======
 * Summer 2024: Research Assistant
   * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of IOWA)
 
 * Fall 2023: Research Assistant
-  * Supervisor: Professor [Minhao CHENG](https://cmhcbb.github.io/) (
+  * Supervisor: Professor [Minhao CHENG](https://cmhcbb.github.io/) (Penn State)
   
 Skills
 ======
 * Python, Java, C++, LaTex, RISC-V
 
-Publications
+Course taken
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* MATH: Calculus, Multivariable Calculus, Linear Algebra, Applied Statistics, Probability, Discrete Mathematical Tools for Computer Science.
+* COMP: Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Computer Architecture.
+* Others: Fundamentals of Actuarial Mathematics, General Physics with Calculus, Introduction to Electro-Robot Design, Introduction of Industrial Engineering and Decision Analytics.
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
