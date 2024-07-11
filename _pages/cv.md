@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[full_resume](/files/Yuxin_Resume_240611.pdf)
+
 Education
 ======
 * BEng in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
@@ -30,6 +32,4 @@ Course taken
 * MATH: Calculus, Multivariable Calculus, Linear Algebra, Applied Statistics, Probability, Discrete Mathematical Tools for Computer Science.
 * COMP: Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Computer Architecture.
 * Others: Fundamentals of Actuarial Mathematics, General Physics with Calculus, Introduction to Electro-Robot Design, Introduction of Industrial Engineering and Decision Analytics.
-
-[cv](/files/Yuxin_Resume_240611.pdf)
 
