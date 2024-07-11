@@ -15,8 +15,11 @@ Education
 
 Research project
 ======
-* Summer 2024: Explore Selective Disclosure Bias with Networks of LLM-based Agents
-  * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of Iowa)
+* Summer 2024: Explore Selective Disclosure Bias with Networks of LLM-based Agents (Supervised by Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi), The University of Iowa)
+  * Developed a simulation to study how selective disclosure bias affects opinion segregation.
+  * Modelled twenty agents with diverse opinion interaction based on perceived similarity.
+  * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close 
+friends or family may hinder information cascades.
 
 Skills
 ======
