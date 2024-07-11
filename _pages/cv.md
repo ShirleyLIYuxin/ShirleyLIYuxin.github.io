@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [cv](/assets/files/Yuxin_reume_24S.pdf)
+title: "CV" [cv](/files/Yuxin_Resume_240611.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
