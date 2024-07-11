@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" [cv](/files/Yuxin_Resume_240611.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[cv](/files/Yuxin_Resume_240611.pdf)
 Education
 ======
 * BEng in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
