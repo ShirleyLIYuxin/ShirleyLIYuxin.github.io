@@ -11,16 +11,13 @@ redirect_from:
 
 Education
 ======
-* BEng in Computer Science, Hong Kong University of Science and Technology (HKUST) 2022-2026(expected)
+* BEng in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
 
-Research experience
+Research project
 ======
-* Summer 2024: Research Assistant
+* Summer 2024: Explore Selective Disclosure Bias with Networks of LLM-based Agents
   * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of Iowa)
 
-* Fall 2023: Research Assistant
-  * Supervisor: Professor [Minhao CHENG](https://cmhcbb.github.io/) (Penn State)
-  
 Skills
 ======
 * Python, Java, C++, LaTex, RISC-V
