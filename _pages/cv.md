@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 * Summer 2024: Research Assistant
-  * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of IOWA)
+  * Supervisor: Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) (University of Iowa)
 
 * Fall 2023: Research Assistant
   * Supervisor: Professor [Minhao CHENG](https://cmhcbb.github.io/) (Penn State)
