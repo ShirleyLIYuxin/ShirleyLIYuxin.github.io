@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a rising junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). While my primary research interests broadly encompass machine learning, I am currently focused on exploring topics related to large language models, particularly LLM agents. Recently, I am collaborating with Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) on integrating large language models and agent-based models to explore sociological phenomena. 
+Hi! I am a rising junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, trustworthy machine learning, explainable machine learning and computer vision. Recently, I am collaborating with Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) on integrating large language models and agent-based models to explore sociological phenomena. 
 
 Education
 ======
-* BEng in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
+* Bachelor of Engineering in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
 
 Research project
 ======
-* Explore Selective Disclosure Bias with Networks of LLM-based Agents (Supervised by Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi), The University of Iowa)
+* Explore Selective Disclosure Bias with Networks of LLM-based Agents
+  (Supervised by Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi), The University of Iowa)
   * Developed a simulation to study how selective disclosure bias affects opinion segregation.
   * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close 
 friends or family may hinder information cascades.
@@ -26,6 +27,6 @@ Skills
 
 Course taken
 ======
-* MATH: Calculus, Multivariable Calculus, Linear Algebra, Applied Statistics, Probability, Discrete Mathematical Tools for Computer Science.
-* COMP: Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Computer Architecture.
-* Others: Fundamentals of Actuarial Mathematics, General Physics with Calculus, Introduction to Electro-Robot Design, Introduction of Industrial Engineering and Decision Analytics.
+* Mathmetics & physics: Calculus, Multivariable Calculus, Linear Algebra, Applied Statistics, Probability, Discrete Mathematical Tools for Computer Science, General Physics with Calculus.
+* Computer Science: Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Computer Architecture.
+* Applied Mathmetics & Computer Science: Fundamentals of Actuarial Mathematics, Introduction to Electro-Robot Design, Introduction of Industrial Engineering and Decision Analytics.
