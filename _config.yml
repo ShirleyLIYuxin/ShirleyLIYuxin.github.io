@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuxin (Shirley) Li's Homepage"
 title_separator          : "-"
-name                     : &name "Yuxin (Shirley) Li's Homepage"
+name                     : &name "Yuxin (Shirley) Li"
 description              : &description "undergrad student in HKUST"
 url                      : https://www.yuxin.li # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
