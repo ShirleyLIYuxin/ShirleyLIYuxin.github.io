@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a rising junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). I am now working with Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) in Large Language Models and Agent-Based Models. 
+Hi! I am a rising junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). While my primary research interests broadly encompass machine learning, I am currently focused on exploring topics related to large language models (LLMs), particularly LLM agents. Recently, I am collaborating with Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) on integrating Large Language Models and Agent-Based Models to explore sociological phenomena. 
 
 Education
 ======
