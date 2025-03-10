@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, trustworthy machine learning, and computer vision. Recently, I am collaborating with Professor [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi) on integrating large language models and agent-based models to explore sociological phenomena. 
+Hi! I am a junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natual language processing, trustworthy machine learning, and computer vision.  
 
 Education
 ======
