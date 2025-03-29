@@ -12,7 +12,11 @@ Hi! I am a junior undergraduate student in Computer Science at the Hong Kong Uni
 Education
 ======
 * Bachelor of Engineering in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
-
+  
+Pre-print
+======
+* MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning Enhances Formal Theorem Proving [Website](https://ma-lot.github.io/)
+  
 Research project
 ======
 * Explore Selective Disclosure Bias with Networks of LLM-based Agents
