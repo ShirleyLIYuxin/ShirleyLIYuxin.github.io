@@ -15,8 +15,13 @@ Education
   
 Pre-print
 ======
-* MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning Enhances Formal Theorem Proving [Website](https://ma-lot.github.io/)
-  
+### MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning Enhances Formal Theorem Proving 
+  Ruida Wang*, Rui Pan*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
+
+![MA-LoT](../images/MA-LoT-MainPlot-0131.pdf)
+
+[Website](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama)  
+
 Research project
 ======
 * Explore Selective Disclosure Bias with Networks of LLM-based Agents
