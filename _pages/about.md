@@ -15,10 +15,8 @@ Education
   
 Pre-print
 ======
-### MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning Enhances Formal Theorem Proving 
+### MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning Enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama)  
   Ruida Wang*, Rui Pan*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
-
-[\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama)  
 
 Research project
 ======
