@@ -17,7 +17,7 @@ Education
   
 Research project
 ======
-### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]]([https://github.com/RickySkywalker/TheoremLlama](https://github.com/RickySkywalker/LeanOfThought-Official))  
+### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/LeanOfThought-Official))  
   Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
 
 ### \[Preprint\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability [\[Paper\]](https://arxiv.org/abs/2505.23703)) 
