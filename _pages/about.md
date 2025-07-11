@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a junior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing, trustworthy machine learning, and computer vision. I am currently working on Formal Language for LLM reasoning.  
+Hi! I am a rising senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing, trustworthy machine learning, and computer vision. I am currently working on Formal Language for LLM reasoning.  
 
 I am actively seeking **PhD opportunities for Fall 2026** and would be excited to explore potential collaborations. I will also be attending **ICML2025 in Vancouver**, and would be happy to connect in person. Please feel free to reach out if you have any relevant opportunities or ideas for collaboration. 
 
