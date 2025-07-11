@@ -31,7 +31,7 @@ friends or family may hinder information cascades.
 
 Skills
 ======
-* Python, Java, C++, LaTex, RISC-V
+* Python, Java, C++, LaTeX, RISC-V
 
 Course taken
 ======
