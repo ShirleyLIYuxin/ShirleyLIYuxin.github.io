@@ -24,7 +24,7 @@ Research project
   Ruida Wang\*, **Yuxin Li**\*, Yi R. (May) Fung, Tong Zhang (\* indicates first authors)
 
 ### Explore Selective Disclosure Bias with Networks of LLM-based Agents (On-going)
-  (Supervised by Prof. [Yongren SHI](https://sociology.uiowa.edu/people/yongren-shi), The University of Iowa)
+  (Supervised by Prof. [Yongren SHI](https://scholar.google.com/citations?user=4qEFbz8AAAAJ&hl=en), The University of Arizona)
   * Developed a simulation to study how selective disclosure bias affects opinion segregation.
   * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close 
 friends or family may hinder information cascades.
