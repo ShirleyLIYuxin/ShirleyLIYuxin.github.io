@@ -21,7 +21,7 @@ Research project
   Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
 
 [MA-LoT](/images/MainPlot-0523.pdf)
-<iframe src="assets/pdf/example.pdf" width="100%" height="600px"></iframe>
+<iframe src="/images/MainPlot-0523.pdf" width="100%" height="600px"></iframe>
 
 ### \[EMNLP 2025\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability [\[Paper\]](https://arxiv.org/abs/2505.23703)
   Ruida Wang\*, **Yuxin Li**\*, Yi R. (May) Fung, Tong Zhang (\* indicates first authors)
