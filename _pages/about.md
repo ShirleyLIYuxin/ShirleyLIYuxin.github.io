@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a rising senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing, trustworthy machine learning, and computer vision. I am currently working on Formal Language for LLM reasoning.  
+Hi! I am a senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing and trustworthy machine learning. I am currently working on Formal Language for LLM reasoning.  
 
 I am actively seeking **PhD opportunities for Fall 2026** and would be excited to explore potential collaborations. Please feel free to reach out if you have any relevant opportunities or ideas for collaboration. 
 
@@ -20,7 +20,7 @@ Research project
 ### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/pdf/2503.03205) [\[Github\]](https://github.com/RickySkywalker/LeanOfThought-Official)
   Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
 
-### \[EMNLP 2025 under review\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability [\[Paper\]](https://arxiv.org/abs/2505.23703)
+### \[EMNLP 2025\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability [\[Paper\]](https://arxiv.org/abs/2505.23703)
   Ruida Wang\*, **Yuxin Li**\*, Yi R. (May) Fung, Tong Zhang (\* indicates first authors)
 
 ### Explore Selective Disclosure Bias with Networks of LLM-based Agents (On-going)
@@ -33,8 +33,8 @@ Skills
 ======
 * Python, Java, C++, LaTeX, RISC-V
 
-Course taken
+Courses
 ======
 * Mathmetics & physics: Calculus, Multivariable Calculus, Linear Algebra, Applied Statistics, Probability, Discrete Mathematical Tools for Computer Science, General Physics with Calculus.
-* Computer Science: Machine Learning, Large-Scale Machine Learning for Foundation Models, Fundamentals of Artificial Intelligence, Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Computer Architecture, Exploring and Visualizing Data. 
+* Computer Science: Large Language Model, Machine Learning, Large-Scale Machine Learning for Foundation Models, Fundamentals of Artificial Intelligence, Programming with C++, Object-Oriented Programming and Data Structures, Design and Analysis of Algorithms, Cryptography, Computer Architecture, Operating System, Exploring and Visualizing Data. 
 * Applied Mathmetics & Computer Science: Fundamentals of Actuarial Mathematics, Introduction to Electro-Robot Design, Electronic and Information Technology, Introduction of Industrial Engineering and Decision Analytics.
