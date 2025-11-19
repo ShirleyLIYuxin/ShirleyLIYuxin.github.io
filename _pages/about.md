@@ -17,11 +17,17 @@ Education
   
 Research project
 ======
-### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/pdf/2503.03205) [\[Github\]](https://github.com/RickySkywalker/LeanOfThought-Official)
-  Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
+### \[Preprint\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 [\[Paper\]](https://arxiv.org/abs/2510.26094)
+  **Yuxin Li**\*, Minghao Liu\*, Ruida Wang\*, Wenzhao Ji, Zhitao He, Rui Pan, Junming Huang, Tong Zhang, Yi R. (May) Fung (\* indicates first authors)
+  ![Lean4PHYS](../assets/images/Lean4PHYS.png)
 
 ### \[EMNLP 2025\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability [\[Paper\]](https://arxiv.org/abs/2505.23703)
   Ruida Wang\*, **Yuxin Li**\*, Yi R. (May) Fung, Tong Zhang (\* indicates first authors)
+  ![HybridReasoning](../assets/images/HybridReasoning.png)
+
+### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/pdf/2503.03205) [\[Github\]](https://github.com/RickySkywalker/LeanOfThought-Official)
+  Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
+  ![MA-LoT](../assets/images/MA-LoT.png)
 
 ### Explore Selective Disclosure Bias with Networks of LLM-based Agents (On-going)
   (Supervised by Prof. [Yongren SHI](https://scholar.google.com/citations?user=4qEFbz8AAAAJ&hl=en), The University of Arizona)
