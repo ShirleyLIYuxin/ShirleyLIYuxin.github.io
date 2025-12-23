@@ -29,7 +29,7 @@ Research project
   Ruida Wang\*, Rui Pan\*, **Yuxin Li**\*, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang (\* indicates first authors)
   ![MA-LoT](../images/MA-LoT.png)
 
-### Explore Selective Disclosure Bias with Networks of LLM-based Agents (On-going)
+### Explore Selective Disclosure Bias with Networks of LLM-based Agents
   (Supervised by Prof. [Yongren SHI](https://scholar.google.com/citations?user=4qEFbz8AAAAJ&hl=en), The University of Arizona)
   * Developed a simulation to study how selective disclosure bias affects opinion segregation.
   * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close 
