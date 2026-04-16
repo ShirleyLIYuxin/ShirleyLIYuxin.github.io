@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing and trustworthy machine learning. I am currently working on Formal Language for LLM reasoning.  
-
-I am actively seeking **PhD opportunities for Fall 2026** and would be excited to explore potential collaborations. Please feel free to reach out if you have any relevant opportunities or ideas for collaboration. 
+Hi! I am a senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). My research interest includes large language models, natural language processing and trustworthy machine learning. I am currently working on Formal Language for LLM reasoning and continual learning. I would be excited to explore any potential collaborations. Please feel free to reach out if you have any relevant opportunities or ideas for collaboration. 
 
 Education
 ======
@@ -17,7 +15,7 @@ Education
   
 Research project
 ======
-### \[Preprint\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 [\[Paper\]](https://arxiv.org/abs/2510.26094)
+### \[ICLR 2026\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 [\[Paper\]](https://arxiv.org/abs/2510.26094)
   **Yuxin Li**\*, Minghao Liu\*, Ruida Wang\*, Wenzhao Ji, Zhitao He, Rui Pan, Junming Huang, Tong Zhang, Yi R. (May) Fung (\* indicates first authors)
   ![Lean4PHYS](../images/Lean4PHYS.png)
 
