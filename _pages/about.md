@@ -13,9 +13,9 @@ Education
 ======
 * Bachelor of Engineering in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
   
-Research project
+Selected Research project
 ======
-### \[ICLR 2026\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 [\[Paper\]](https://arxiv.org/abs/2510.26094)
+### \[ICLR 2026\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4 [\[Paper\]](https://arxiv.org/abs/2510.26094) [\[Github\]](https://github.com/ShirleyLIYuxin/Lean4PHYS)
   **Yuxin Li**\*, Minghao Liu\*, Ruida Wang\*, Wenzhao Ji, Zhitao He, Rui Pan, Junming Huang, Tong Zhang, Yi R. (May) Fung (\* indicates first authors)
   ![Lean4PHYS](../images/Lean4PHYS.png)
 
@@ -30,8 +30,7 @@ Research project
 ### Explore Selective Disclosure Bias with Networks of LLM-based Agents
   (Supervised by Prof. [Yongren SHI](https://scholar.google.com/citations?user=4qEFbz8AAAAJ&hl=en), The University of Arizona)
   * Developed a simulation to study how selective disclosure bias affects opinion segregation.
-  * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close 
-friends or family may hinder information cascades.
+  * Demonstrated that interactions with acquaintances or strangers can facilitate the spread of unpopular norms, whereas interactions with close friends or family may hinder information cascades.
 
 Skills
 ======
