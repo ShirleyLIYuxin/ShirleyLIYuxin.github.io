@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate student in Computer Science at the Hong Kong University of Science and Technology (HKUST). I am currently working on Formal Language for LLM reasoning and continual learning. 
+Hi! I am a first-year M.S. student in Computer Science at University of Illinois Urbana-Champaign under supervision of Professor [\[Tong Zhang\]](https://www.tongzhang-ml.org/). I am currently working on Formal Language for LLM reasoning and continual learning. 
 
 Education
 ======
-* Bachelor of Engineering in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026(expected)
+* Bachelor of Engineering in Computer Science, Hong Kong University of Science and Technology (HKUST),  2022-2026
+* Master of Science in computer science, University of Illinois Urbana-Champaign (UIUC), 2026-2028 (expected) 
   
 Selected Research project
 ======
