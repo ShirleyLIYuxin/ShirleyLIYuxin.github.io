@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year M.S. student in Computer Science at University of Illinois Urbana-Champaign under supervision of Professor [\[Tong Zhang\]](https://www.tongzhang-ml.org/). I am currently working on Formal Language for LLM reasoning and continual learning. 
+Hi! I am a first-year M.S. student in Computer Science at University of Illinois Urbana-Champaign under supervision of Professor [Tong Zhang](https://www.tongzhang-ml.org/). I am currently working on Formal Language for LLM reasoning and continual learning. 
 
 Education
 ======
