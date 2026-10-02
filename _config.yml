@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "bio-photo.png"
   name             : "Yuxin (Shirley) Li"
-  pronouns         : "she/her"  
-  bio              : "Senior undergrad student in HKUST"
-  location         : "Hong Kong"
+  pronouns         : # "she/her"  
+  bio              : "MSCS at UIUC"
+  location         : # "IL"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "e@yuxin.li" 
